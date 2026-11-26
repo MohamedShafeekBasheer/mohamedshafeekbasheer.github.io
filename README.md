@@ -2,14 +2,14 @@
 
 I build and look after **SharePoint, Microsoft 365 and the Power Platform** for companies that depend on them: architecture, development, security and governance.
 
-Right now I run SharePoint, Microsoft 365 and the Power Platform on my own for a five-company industrial group in Saudi Arabia (AQS-PEPSI), with seven production systems in twelve months. Before that I worked at **EY Global Delivery Services** and **Avasoft**, for clients in the US, UK, Canada and the GCC.
+Right now I run SharePoint, Microsoft 365 and the Power Platform on my own for a five-company industrial group in the GCC, with seven production systems in twelve months. Before that I worked at a **Big Four global delivery centre** and an **IT services firm**, for clients in the US, UK, Canada and the GCC.
 
 **Portfolio, case studies and notes:** https://mohamedshafeekbasheer.github.io/Portfolio/
 
 ### Recent work
 
 - **Contract management platform.** SPFx (React, TypeScript), Azure Functions, Azure SQL, Key Vault, Entra ID and DocuSign. A multi-day process now takes minutes, with a 28 ms end-to-end response.
-- **Group document migration.** 45,000+ documents (~60 GB) across four legal entities, verified with zero loss.
+- **Group document migration.** 45,000+ documents (~60 GB), verified with zero loss.
 - **Power Platform → Dynamics 365 F&O.** Vendor invoice posting with duplicate prevention, retries and Teams alerts.
 - **InfoPath retirement.** 8 forms rebuilt in modern SharePoint for 500+ users across 15 departments.
 - **Permission audit framework.** PowerShell and CSOM, plus Conditional Access and DLP baselines.
@@ -28,7 +28,7 @@ SharePoint Online · SPFx · React · TypeScript · Power Apps · Power Automate
 
 ### Open to
 
-SharePoint Developer, Microsoft 365 Consultant, Power Platform Developer and Microsoft 365 Architect roles in Saudi Arabia, the GCC, Singapore or India. KSA-based, Iqama transferable. I also take on SharePoint governance and remediation work.
+SharePoint Developer, Microsoft 365 Consultant, Power Platform Developer and Microsoft 365 Architect roles in the GCC and Middle East, Singapore or India. GCC-based, with a transferable residence visa. I also take on SharePoint governance and remediation work.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/mdshafeek) · basheermohamedshafeek@gmail.com
 
